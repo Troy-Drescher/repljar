@@ -1,0 +1,2 @@
+Language= 'node-js'
+Run= 'java -jar AggieBattletHD.jar'
